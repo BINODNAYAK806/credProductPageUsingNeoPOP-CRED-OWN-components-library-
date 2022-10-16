@@ -31,7 +31,7 @@ export const Home = () => {
     textColor: "rgba(13,13,13, 0.9)",
   }}
   onSubmit={function noRefCheck() {}}
-  placeholder="search query here"
+  placeholder="search item  here"
 />;
         {/* <h1>binod</h1> */}
         <Products/>
